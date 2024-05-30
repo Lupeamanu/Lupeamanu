@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[Write-ups](https://github.com/Lupeamanu/write-ups)
+### Pages:
+- [Write-ups](https://github.com/Lupeamanu/write-ups)
 
 <!--
 **Lupeamanu/Lupeamanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
