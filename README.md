@@ -15,4 +15,4 @@
 - [Write-ups](https://github.com/Lupeamanu/write-ups)
   - Contains all write-ups from CTF challenges to learning to projects
 - [Py-Proj](https://github.com/Lupeamanu/py-proj)
-  - Command line utility for the automation of python project creation
+  - Command line utility for automating python project creation
