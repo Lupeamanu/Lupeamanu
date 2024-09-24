@@ -16,3 +16,6 @@
   - Contains all write-ups from CTF challenges to learning to projects
 - [Py-Proj](https://github.com/Lupeamanu/py-proj)
   - Command line utility for automating python project creation
+- [Py-Jisho](https://github.com/Lupeamanu/pysho)
+  - Basic wrapper for Jisho.com's API for searching japanese sentences/kanji.
+  - Born from my endeavor of learning Japanese in preparation for a trip I am going on in 2025!
