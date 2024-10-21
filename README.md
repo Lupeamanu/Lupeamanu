@@ -7,7 +7,7 @@
 > [!IMPORTANT]
 > Hey, I'm Logan Lupeamanu!
 >
-> I am a Cyber Security Professional with near 3 years of combined experience automating network security as well as in incident response and analysis. My goal is to obtain a full time role automating network security in any way. Currently, my daily toolset includeas: **Python, TypeScript, Angular, SQL, Azure DevOPs**.
+> I am a Cyber Security Professional with near 3 years of combined experience automating network security as well as in incident response and analysis. My goal is to obtain a full time role automating network security in any way. Currently, my daily toolset includes: **Python, TypeScript, Angular, SQL, Azure DevOPs**.
 > 
 > Here you can find out more about me as well as take a peek at some things I've been working on!
 
