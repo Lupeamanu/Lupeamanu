@@ -15,3 +15,7 @@
 - [Py-Jisho](https://github.com/Lupeamanu/pysho)
   - Basic wrapper for Jisho.com's API for searching japanese sentences/kanji.
   - Born from my endeavor of learning Japanese in preparation for a trip I am going on in 2025!
+- [Jagaimo](https://github.com/Lupeamanu/jagaimo)
+  - Provides corrections on grammar and vocabulary provided any sentence.
+  - Translates sentences into English.
+  - Another project born as a result of my upcoming vacation to Japan!
