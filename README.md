@@ -19,3 +19,5 @@
   - Provides corrections on grammar and vocabulary provided any sentence.
   - Translates sentences into English.
   - Another project born as a result of my upcoming vacation to Japan!
+- [A* Visualization](https://github.com/Lupeamanu/a-star)
+  - Search algorithms are really cool, but they are cooler when you can see them at work!
